@@ -1,0 +1,15 @@
+C102_EXTENDED_DEMAND
+
+VEHICLE
+NUMBER     CAPACITY
+8          200
+
+CUSTOMER
+CUST NO.  XCOORD.   YCOORD.   DEMAND    READY TIME  DUE DATE   SERVICE TIME
+0         40        50        0         0           1500       0
+1         45        68        80        50          500        90
+2         45        70        95        10          350        90
+3         42        66        60        90          400        90
+4         38        68        75        0           600        90
+5         35        69        90        120         800        90
+6         22        75        85        30          250        90
